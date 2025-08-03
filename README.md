@@ -17,7 +17,7 @@ NeuroMap is a Python-based machine learning and robotics simulation where a virt
 ## 🧪 Demo Preview
 
 <p align="center">
-  <img src="demo/neuro_map_demo.png" width="600"/>
+  <img src="neuro_map_demo.png" width="600"/>
 </p>
 
 > *(You can update the image path once you add screenshots or a .gif to `demo/` folder.)*
